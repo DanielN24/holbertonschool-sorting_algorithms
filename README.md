@@ -133,7 +133,7 @@ typedef struct listint_s
 } listint_t;
 ```
 
-Please, note this format is used for Quiz and Task questions.
+Please, note this format is used for Quiz and Task questions
 
 *  ` O(1) ` 
 *  ` O(n) ` 
